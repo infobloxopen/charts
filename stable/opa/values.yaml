@@ -103,7 +103,7 @@ authz:
 
 # Docker image and tag to deploy.
 image: openpolicyagent/opa
-imageTag: 0.15.1
+imageTag: 1.10.1
 imagePullPolicy: IfNotPresent
 
 # Port to which the opa pod will bind itself
